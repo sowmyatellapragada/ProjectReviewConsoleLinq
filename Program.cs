@@ -7,7 +7,7 @@ namespace ProjectReviewManagement
         static void Main(string[] args)
         {
 
-            //Management management = new Management();
+            Management management = new Management();
             Console.WriteLine("Welcome to ProjectManagement ");
 
             String entrance = "yes";
